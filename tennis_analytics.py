@@ -5,9 +5,9 @@ Created on Thu Jun  2 13:59:47 2022
 @author: Huzihu
 """
 
-import pandas as pd
-import streamlit as st
-import matplotlib.pyplot as plt
+pandas
+streamlit
+matplotlib.pyplot
 
 pd.set_option('display.max_columns', None)
 
